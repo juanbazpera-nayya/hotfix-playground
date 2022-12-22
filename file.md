@@ -1,8 +1,8 @@
 # What is Lorem Ipsum?
 
-This is a change made from a hotfix that will be merged to main, but i dont know what else can i add here
+> This is the new main hotfix, that will merge to main and then we should rebase main into dev by opening a new pr
 
-but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 # Why do we use it?
 
